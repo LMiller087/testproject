@@ -1,0 +1,48 @@
+body {
+	margin: 0;
+	background-color: black;
+}
+.logo {
+	height: 200px;
+	width: 200px;
+	margin-top: 0px;
+	float: left;
+}
+p {
+	font-size: 100px;
+	font-family: Verdana;
+	color: white;
+	margin-top: auto;
+
+
+}
+div img {
+	height: 90%;
+	width: 90%;
+	margin: 10px auto;
+	display: block;
+	
+}
+ul {
+	list-style: none;
+	padding: 0;
+	text-align: center;
+	margin-top: 10px;
+
+
+}
+li {
+	color:white;
+	font-family: Verdana;
+	display: inline;
+
+
+}
+li a:hover {
+	
+	color: red;
+}
+li a {
+	text-decoration: none;
+	color: white;
+}
